@@ -10,7 +10,7 @@ const GsapFrom = () => {
       duration:2,
       repeat:-1,
       yoyo:true,
-      ease:'elastic.inOut',
+      ease:'back.in',
       rotation:360
     })
   },[])
